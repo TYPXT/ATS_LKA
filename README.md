@@ -5,12 +5,19 @@
 
 ## 环境说明
 python 3.10.4
+
 OpenCV 4.5.5
+
 tensorflow 2.10.0
+
 pygame 2.1.2
+
 pywin32 304
+
 pyvjoy 1.0.1
+
 PyGetWindow 0.0.9
+
 
 ## 使用说明
 没有摇杆（建议最好有一个，不加以控制只能天天修车了）：
